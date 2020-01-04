@@ -10,6 +10,7 @@ Welcome to sphinx-test4's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   testcontent
 
 
 Indices and tables
